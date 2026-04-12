@@ -2,7 +2,7 @@
 
 ### **Neuro-Data Scientist | Bridging Human & Machine Intelligence**
 
-I am a Data Scientist with a unique background in **Cognitive Neuroscience**. My approach to AI is deeply rooted in the study of complex systems: I don't just see rows of data; I see **behavioral patterns**.I treat data as a dynamic signal to be decoded.
+I am a **Data Scientist** with a unique background in **Cognitive Neuroscience**. My approach to **AI** is deeply rooted in the study of **complex systems**: I don't just see rows of data; I see **behavioral patterns**.I treat **data** as a dynamic signal to be decoded.
 
 ---
 
