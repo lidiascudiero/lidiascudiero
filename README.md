@@ -61,6 +61,11 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-grey?style=for-the-badge&logo=python&logoColor=white)
 
+### **Neuroscience & Signal Processing**
+![MNE-Python](https://img.shields.io/badge/MNE--Python-3E8E41?style=for-the-badge&logo=python&logoColor=white)
+![PyLSL](https://img.shields.io/badge/PyLSL-005C94?style=for-the-badge&logo=python&logoColor=white)
+![Lab Streaming Layer](https://img.shields.io/badge/LSL-black?style=for-the-badge&logo=google-chrome&logoColor=white)
+
 ### **Visualization & Design**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
