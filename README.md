@@ -10,8 +10,8 @@ I am a **Data Scientist** with a unique background in **Cognitive Neuroscience**
 Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynamic signal with a rigorous experimental mindset:
 - **Behavioral Profiling:** Treating machine telemetry as a proxy for system "health behavior."
 - **Pattern Recognition:** Identifying hidden "rhythms" in noisy, high-volume datasets.
-- **End-to-end ML pipelines** → From preprocessing to modeling, explainability, and visualization
 - **Explainability (XAI):** Making complex models transparent and actionable for human stakeholders.
+- **End-to-end ML pipelines** From raw, noisy data preprocessing to modeling, tuning, explainability and interactive visualization
 
 
 
@@ -79,6 +79,7 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 ### **Collaboration & Specialized Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
