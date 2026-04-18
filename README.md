@@ -2,7 +2,7 @@
 
 ### **Neuro-Data Scientist | Bridging Human & Machine Intelligence**
 
-I am a **Data Scientist** with a unique background in **Cognitive Neuroscience**. My approach to **AI** is deeply rooted in the study of **complex systems**: I don't just see rows of data; I see **behavioral patterns**.I treat **data** as a dynamic signal to be decoded.
+I am a **Data Scientist** with a unique background in **Cognitive Neuroscience**. My approach to **AI** is deeply rooted in the study of **complex systems**: I don't just see rows of data; I see **behavioral patterns**.I treat **data** as a dynamic signal to be decoded and make it **actionable**.
 
 ---
 
@@ -10,9 +10,10 @@ I am a **Data Scientist** with a unique background in **Cognitive Neuroscience**
 Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynamic signal with a rigorous experimental mindset:
 - **Behavioral Profiling:** Treating machine telemetry as a proxy for system "health behavior."
 - **Pattern Recognition:** Identifying hidden "rhythms" in noisy, high-volume datasets.
+- **End-to-end ML pipelines** → From preprocessing to modeling, explainability, and visualization
 - **Explainability (XAI):** Making complex models transparent and actionable for human stakeholders.
+-
 
----
 
 ##  Featured Projects
 
