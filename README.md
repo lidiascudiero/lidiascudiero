@@ -12,7 +12,7 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 - **Pattern Recognition:** Identifying hidden "rhythms" in noisy, high-volume datasets.
 - **End-to-end ML pipelines** → From preprocessing to modeling, explainability, and visualization
 - **Explainability (XAI):** Making complex models transparent and actionable for human stakeholders.
--
+
 
 
 ##  Featured Projects
