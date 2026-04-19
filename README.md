@@ -94,7 +94,9 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 
 ---
 
-##  Connect with me
+## Let's keep in touch
+
+[![Interactive Portfolio](https://img.shields.io/badge/Visit_My_Interactive_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lidiascudiero.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidia-scudiero-413372354/)
 
 ---
