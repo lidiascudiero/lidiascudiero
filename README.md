@@ -47,6 +47,7 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 ### **Generative AI & LLM Orchestration**
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6A00?style=for-the-badge&logo=database&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-orange?style=for-the-badge&logo=mistralai&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-30312E?style=for-the-badge&logo=cohere&logoColor=white)
 
@@ -72,6 +73,7 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 ### **Visualization & Design**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
+![Pyvis](https://img.shields.io/badge/Pyvis-9B59B6?style=for-the-badge&logo=python&logoColor=white)
 ![Altair](https://img.shields.io/badge/Altair-666666?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white)
