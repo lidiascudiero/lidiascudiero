@@ -46,6 +46,7 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 
 ### **Generative AI & LLM Orchestration**
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-orange?style=for-the-badge&logo=mistralai&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-30312E?style=for-the-badge&logo=cohere&logoColor=white)
 
