@@ -61,9 +61,9 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 ![skmobility](https://img.shields.io/badge/scikit--mobility-orange?style=for-the-badge&logo=python&logoColor=white)
 
 ### **BI, Data Analysis & Crawling**
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-powerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![SPSS](https://img.shields.io/badge/SPSS-%23E71D32.svg?style=for-the-badge&logo=ibm&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-grey?style=for-the-badge&logo=python&logoColor=white)
