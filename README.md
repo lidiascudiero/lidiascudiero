@@ -63,6 +63,7 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 ### **BI, Data Analysis & Crawling**
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-powerbi&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-%23E71D32.svg?style=for-the-badge&logo=ibm&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-grey?style=for-the-badge&logo=python&logoColor=white)
