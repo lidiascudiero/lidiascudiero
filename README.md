@@ -6,18 +6,18 @@ I am a **Data Scientist** with a unique background in **Cognitive Neuroscience**
 
 ---
 
-##  The "Neuro" Edge
+##  The "Neuro" edge
 Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynamic signal with a rigorous experimental mindset:
-- **Behavioral Profiling:** Treating machine telemetry as a proxy for system "health behavior."
-- **Pattern Recognition:** Identifying hidden "rhythms" in noisy, high-volume datasets.
+- **Behavioral profiling:** Treating machine telemetry as a proxy for system "health behavior."
+- **Pattern recognition:** Identifying hidden "rhythms" in noisy, high-volume datasets.
 - **Explainability (XAI):** Making complex models transparent and actionable for human stakeholders.
 - **End-to-end ML pipelines** From raw, noisy data preprocessing to modeling, tuning, explainability and interactive visualization
 
 
 
-##  Featured Projects
+##  Featured projects
 
-| Project | Challenge & Data | Tech Stack (Algorithms & Tools) | Impact & Knowledge Discovery |
+| Project | Challenge & Data | Tech stack (Algorithms and tools) | Impact & knowledge discovery |
 | :--- | :--- | :--- | :--- |
 | **[Predictive Maintenance for Urban Mobility](https://github.com/lidiascudiero/predictive-maintenance-afcs-case-study)** | **7.5M Telemetry Logs.** Transitioning  gates from "fail-and-fix" to proactive maintenance. | **ML:** XGBoost, CatBoost, LightGBM, RF. <br> **DL/TS:** LSTM, MiniRocket, sktime. <br> **XAI:** SHAP. | Built a **Stakeholder Dashboard** (Streamlit/Plotly). Isolated **maintenance noise** from operational stress for **Root-Cause Analysis**. |
 | **[Normative Graph-RAG for Aerospace Compliance](https://github.com/lidiascudiero/normative_graph_rag_aerospace)** | **Aerospace Standards (ECSS).** Overcoming semantic ambiguity and deontic rigidity (SHALL/SHOULD) in complex regulatory frameworks. | **Data Engine:** NetworkX, ChromaDB.<br>**ML/LLM:** LangChain, Hugging Face (Qwen2.5), Sentence-Transformers.<br>**Visuals:** Streamlit, Pyvis. | Developed a **Hybrid RAG Pipeline** merging semantic vector search with a **Normative Document Graph**. Built an interactive **Sub-graph Explorer** ensuring **grounded retrieval** and resolving topological normative cross-references. |
@@ -29,9 +29,9 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 | **[NeuroPsy-Research Archive](https://github.com/lidiascudiero/neuropsy-research-archive)** | **Behavioral Data Modeling and Experimental Design.** Mapping clinical traits to cognitive and perceptual performance and body perception. | **PsyToolkit**, SPSS, Excel. <br> **Paradigms:** Posner Task, Memory Task, Shelf Task, ECR- 12, AST, STA-Y2,LCSQ, BDS | Engineered **automated scoring** for **clinical scales** and **biometrics**. Validated **"Healthy is Up"** metaphor via **spatial categorization and BMI correlations**. Mapped **attachment style-driven biases** in attention (Posner), memory (Old-New), and social interpretation (AST) |
 ---
 
-##  Tech Stack & Libraries
+##  Tech stack and libraries
 
-### **Programming & Core Data Science**
+### **Programming and core Data Science**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,7 +39,7 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-### **ML, AI & NLP**
+### **ML, AI and NLP**
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -47,21 +47,21 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 ![SpaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-green?style=for-the-badge&logo=python&logoColor=white)
 
-### **Generative AI & LLM Orchestration**
+### **Generative AI and LLM Orchestration**
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6A00?style=for-the-badge&logo=database&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-orange?style=for-the-badge&logo=mistralai&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-30312E?style=for-the-badge&logo=cohere&logoColor=white)
 
-### **Geospatial & Network Analysis**
+### **Geospatial and Network analysis**
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-white?style=for-the-badge&logo=python&logoColor=black)
 ![OSMnx](https://img.shields.io/badge/OSMnx-black?style=for-the-badge&logo=openstreetmap&logoColor=white)
 ![Shapely](https://img.shields.io/badge/Shapely-blue?style=for-the-badge&logo=python&logoColor=white)
 ![skmobility](https://img.shields.io/badge/scikit--mobility-orange?style=for-the-badge&logo=python&logoColor=white)
 
-### **BI, Data Analysis & Crawling**
+### **BI, Data Analysis and Crawling**
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
@@ -69,14 +69,14 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-grey?style=for-the-badge&logo=python&logoColor=white)
 
-### **Neuroscience & Signal Processing**
+### **Neuroscience and Signal processing**
 ![MNE-Python](https://img.shields.io/badge/MNE--Python-3E8E41?style=for-the-badge&logo=python&logoColor=white)
 ![PyRiemann](https://img.shields.io/badge/pyRiemann-6A5ACD?style=for-the-badge&logo=python&logoColor=white)
 ![Braindecode](https://img.shields.io/badge/Braindecode-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyLSL](https://img.shields.io/badge/PyLSL-005C94?style=for-the-badge&logo=python&logoColor=white)
 ![Lab Streaming Layer](https://img.shields.io/badge/LSL-black?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-### **Visualization & Design**
+### **Visualization and Design**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
 ![Pyvis](https://img.shields.io/badge/Pyvis-9B59B6?style=for-the-badge&logo=python&logoColor=white)
@@ -85,7 +85,7 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white)
 
 
-### **Collaboration & Specialized Tools**
+### **Collaboration and Specialized tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
