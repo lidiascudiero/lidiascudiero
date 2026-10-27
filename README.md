@@ -17,7 +17,7 @@ Leveraging my background in **Cognitive Neuroscience**, I treat data as a dynami
 
 ##  Featured projects
 
-| Project | Challenge & Data | Tech stack (Algorithms and tools) | Impact & knowledge discovery |
+| Project | Challenge and data | Tech stack (algorithms and tools) | Impact and knowledge discovery |
 | :--- | :--- | :--- | :--- |
 | **[Predictive Maintenance for Urban Mobility](https://github.com/lidiascudiero/predictive-maintenance-afcs-case-study)** | **7.5M Telemetry Logs.** Transitioning  gates from "fail-and-fix" to proactive maintenance. | **ML:** XGBoost, CatBoost, LightGBM, RF. <br> **DL/TS:** LSTM, MiniRocket, sktime. <br> **XAI:** SHAP. | Built a **Stakeholder Dashboard** (Streamlit/Plotly). Isolated **maintenance noise** from operational stress for **Root-Cause Analysis**. |
 | **[Normative Graph-RAG for Aerospace Compliance](https://github.com/lidiascudiero/normative_graph_rag_aerospace)** | **Aerospace Standards (ECSS).** Overcoming semantic ambiguity and deontic rigidity (SHALL/SHOULD) in complex regulatory frameworks. | **Data Engine:** NetworkX, ChromaDB.<br>**ML/LLM:** LangChain, Hugging Face (Qwen2.5), Sentence-Transformers.<br>**Visuals:** Streamlit, Pyvis. | Developed a **Hybrid RAG Pipeline** merging semantic vector search with a **Normative Document Graph**. Built an interactive **Sub-graph Explorer** ensuring **grounded retrieval** and resolving topological normative cross-references. |
